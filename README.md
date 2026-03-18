@@ -1,1 +1,1 @@
-use the folder for images as well
+use the folder for the images as well
